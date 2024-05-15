@@ -32,7 +32,7 @@ public class Principal {
             temporadas.add(datosTemporada);
         }
         temporadas.forEach(System.out::println);
-        //FIN VIDEO 2.4
+      
 //        for (int i = 0; i < datos.totalTemporadas(); i++) {
 //            List<DatosEpisodio> episodiosTemporadas = temporadas.get(i).episodios();
 //            for (int j = 0; j < episodiosTemporadas.size(); j++) {
